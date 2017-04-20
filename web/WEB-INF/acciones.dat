@@ -1,0 +1,11 @@
+validar=ajaxmvc.modelo.acciones.AccionValidar
+ranking=ajaxmvc.modelo.acciones.AccionRanking
+registrar=ajaxmvc.modelo.acciones.AccionRegistrar
+solicitud=ajaxmvc.modelo.acciones.AccionSolicitud
+rankingdiez=ajaxmvc.modelo.acciones.AccionRankingDiez
+partida=ajaxmvc.modelo.acciones.AccionPartida
+comprobar=ajaxmvc.modelo.acciones.AccionComprobar
+acertados=ajaxmvc.modelo.acciones.AccionNumAciertos
+partidap=ajaxmvc.modelo.acciones.AccionPartidap
+registraraci=ajaxmvc.modelo.acciones.AccionRegistraAci
+modificarank=ajaxmvc.modelo.acciones.AccionModRanking
